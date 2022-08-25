@@ -1,0 +1,11 @@
+.ck-editor__editable {
+    min-height: 300px;
+}
+
+.dataTables_wrapper{
+    width: 100%;
+}
+
+#sortable div{
+    cursor: move;;
+}
