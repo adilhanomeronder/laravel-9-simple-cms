@@ -28,18 +28,20 @@
 
 Depoyu klonlayın, bağımlılıkları yükleyin.
 
-$ git clone https://github.com/ozdemirburak/laravel-8-simple-cms.git && cd laravel-8-simple-cms
-$ composer update
+    $ git clone https://github.com/adilhanomeronder/laravel-9-simple-cms.git && cd laravel-9-simple-cms
+    $ composer update
 
-.env.example dosyasını .env olarak değiştirin ve veritabanızı ayarlarınızı ve path ayarlarınızı düzenleyin. Sonrasında aşağıdaki kodları çalıştırın.
+.env.example dosyasını .env olarak değiştirin ve veritabanızı ayarlarınızı ve path ayarlarınızı düzenleyin. Sonrasında aşağıdaki kodları sırasıyla çalıştırın.
 
-$ php artisan migrate
-$ php artisan db:seed
-$ php artisan key:generate
-$ php artisan serve
+    $ php artisan migrate
+    $ php artisan db:seed
+    $ php artisan key:generate
+    $ php artisan serve
 
 Admin panele ulaşmak için [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin) giriş yapınız.
+
 Varsayılan kullanıcı adı: `admin`, şifre: `1` şeklindedir.
+
 -----
 
 <a name="item3"></a>
