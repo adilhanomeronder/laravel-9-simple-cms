@@ -1,4 +1,4 @@
-# Laravel 9 Basit Yönetim Paneli
+# Laravel 9 ile Basit CMS Panel
 -----
 ## İçindekiler
 
